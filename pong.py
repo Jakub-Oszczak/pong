@@ -1,4 +1,3 @@
-from email.header import Header
 import pygame as pg
 
 pg.init()
